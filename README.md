@@ -36,8 +36,6 @@
 
 ---
 
-## 英文版  
-
 # SSE Block Trade ETF Data Scraper  
 
 ### Features  
